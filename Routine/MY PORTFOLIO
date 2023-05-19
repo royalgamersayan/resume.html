@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="UTF-8">
+<tittle><h1>My Resume</h1></tittle>
+<head></head>
+<body>
+<h1>Sayan Dutta</h1>
+<img src="./20221002083759_IMG_0649.JPG/200"alt="my photo"/>
+<h2>Summary</h2>
+<p>I am hardwoking and dedicated individual with experince in a software developer company and teacher at institute.</p>
+<hr/>
+<h2>Education</h2>
+<ul>
+    <li>B.TECH in computer science enginnering and A.I</li>
+</ul>
+<hr/>
+<h2> Work Experience</h2>
+<ul>
+    <li><h3>software developer- ABC Corp.</h3></li>
+    <P>May 2015-august 2018</P>
+    <li>worked at some of the best projects in our company</li>
+    <li>resolved many problems</li>
+    <li>maintained customer records</li>
+<li><h3>Assistant Teacher XYZ Institute</h3></li>
+August 2018-March 2023
+<li>teached many students </li>
+<li>managed all the mails and office work</li>
+<li>prepared results for students</li>
+</ul>
+
+<hr/>
+<h2>Skills</h2>
+<ul>
+<li>Teaching :⭐️⭐️⭐️⭐️⭐️</li>
+<li>web developing :⭐️⭐️⭐️⭐️</li>
+<li>Organizational skills:⭐️⭐️⭐️⭐️⭐️</li>
+</ul>
+<hr/>
+<h2>Awards and Certifications</h2>
+<ul>
+    <li>best employee of the year 2016</li>
+    <li>best teacher of the year 2021</li>
+
+</ul>
+<hr/>
+<h2>Other</h2>
+<ul>
+    <li><a href="../4.3 HTML Porfolio Project/public/contact.html">contact details</a></li>
+   <li> <a href="../Routine/MY HOBBIES">Hobbies</a></li>
+        
+</ul>
+<footer>
+    © Sayan Dutta.all right reserved.
+</footer>
+
+</body>
+</html>
